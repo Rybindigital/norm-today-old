@@ -80,6 +80,10 @@
 .navbar__toggle {
   display: none;
   width: 40px;
+  height: 40px;
+  transition: .3s ease-in-out;
+  border-radius: 12px;
+  background: var(--ifm-color-emphasis-200);
 }
 
 @media (max-width: 996px) {
