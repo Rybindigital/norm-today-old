@@ -28,11 +28,6 @@ export default function NavbarNavLink({
         children: (
           <>
             {label}
-            {isExternalLink && (
-              <IconExternalLink
-                {...(isDropdownLink && {width: 12, height: 12})}
-              />
-            )}
           </>
         ),
       };
