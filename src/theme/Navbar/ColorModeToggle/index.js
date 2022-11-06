@@ -9,7 +9,7 @@ export default function NavbarColorModeToggle({className}) {
   }
   return (
     <ColorModeToggle
-      className={className}
+      className={`${className} navbar__colorModeToggle navbar__item`}
       value={colorMode}
       onChange={setColorMode}
     />
