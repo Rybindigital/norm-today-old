@@ -87,17 +87,17 @@ const config = {
             label: 'About',
           },
           {
-            href: 'https://instagram.com/norm.today',
+            href: 'https://www.instagram.com/norm.today',
             label: 'Instagram',
             position: 'right',
           },
           {
-            href: 'https://fb.me/norm.today',
+            href: 'https://www.facebook.com/groups/norm.today',
             label: 'Facebook',
             position: 'right',
           },
           {
-            href: 'https://tg.me/norm.today',
+            href: 'https://t.me/normtoday',
             label: 'Telegram',
             position: 'right',
           },
