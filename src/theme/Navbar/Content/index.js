@@ -47,7 +47,6 @@ export default function NavbarContent() {
         // TODO stop hardcoding items?
         <>
           {!mobileSidebar.disabled && <NavbarMobileSidebarToggle />}
-          {size.width > 996 && <NavbarHome />}
 
           <NavbarItems items={leftItems} />
         </>
