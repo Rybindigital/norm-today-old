@@ -82,7 +82,7 @@ const config = {
             label: 'Guides',
           },
           {
-            to: '/about',
+            to: '/docs/about',
             position: 'left',
             label: 'About',
           },
