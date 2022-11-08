@@ -40,6 +40,10 @@
   --menu-background-color: #3b3b3b;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 /* TODO: move navbar styles to separated file */
 .navbar {
   box-shadow: none;
